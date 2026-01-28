@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "Social-Links-Profile-Frontend-Mentor",
+  base: "/Social-Links-Profile-Frontend-Mentor/",
   build: {
     outDir: "docs"
   },
